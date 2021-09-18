@@ -17,7 +17,7 @@ pip install biopython
 
 ### Clone the repository
 ```shell
-git clone https://github.com/saad272/DSSP
+git clone https://github.com/imanemessak/DSSP.git
 cd DSSP_implt
 ```
 ## Run the program
